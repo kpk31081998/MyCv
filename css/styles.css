@@ -1,0 +1,29 @@
+
+body{
+    background-color: rgb(222, 244, 247);
+}
+hr{
+    height: 0;
+    border-style: dotted none none none;
+    border-width: 5PX;
+    width: 5%;
+}
+h1{
+    color: rgb(26, 116, 4);
+}
+h2{
+    color: rgb(173, 129, 6);
+    font-size: 25px;
+}
+h3{
+    color: rgb(58, 7, 139);
+    font-size: 25px;
+    padding-left: 2px;
+}
+.table{
+    background-color: rgb(245, 191, 13);
+}
+#heading{
+color: rgb(9, 158, 76);
+font-size: 25px;
+}
